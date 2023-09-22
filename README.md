@@ -35,10 +35,10 @@
 - Overriding context for a part of the tree
 - Optimizing re-renders when passing objects and functions
 # Use cases
-- *Theming:* Dark or light theme for your website and pass it down to all the components.
-- *User Athentication:* A user's authentication status and pass it to all the components.
-- *Multilingual Support:* Curent language of your application in the context and pass it down to all the components.
-- *Accessing data from external sources:* Store data retrieved from external sources such ad APIs or databases and make it available to all component.
+- **Theming:** Dark or light theme for your website and pass it down to all the components.
+- **User Athentication:** A user's authentication status and pass it to all the components.
+- **Multilingual Support:** Curent language of your application in the context and pass it down to all the components.
+- **Accessing data from external sources:** Store data retrieved from external sources such ad APIs or databases and make it available to all component.
 # Pitfall
 - Use default initial values.
 - Use a separate file to define your Context.
